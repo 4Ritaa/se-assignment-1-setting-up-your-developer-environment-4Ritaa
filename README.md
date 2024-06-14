@@ -73,8 +73,11 @@ In creating/downloading of mysql ensure to remember the password for you root to
 8. Explore Extensions and Plugins:
    Explore available extensions, plugins, and add-ons for your chosen text editor or IDE to enhance functionality, such as syntax highlighting, linting, code formatting, and version control integration.
 <br>
+
 you can download extensions such as python debugger, to help you in checking for errors in your code,zip-extract-all to extract zipped files in vs code, prettier to allow running the frontend part of code on the browser
+
 ![Extensions downloaded](extension.png)
+<br>
 
 9. Document Your Setup:
     Create a comprehensive document outlining the steps you've taken to set up your developer environment. Include any configurations, customizations, or troubleshooting steps encountered during the process. 
